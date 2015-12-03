@@ -12,22 +12,12 @@ hitheme     : tomorrow      #
 widgets     : [interactive]            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
-url: {lib: "."}
 ---
 
 # re:teatteri
 ### slides
 
 <small> for [@safkame](https://instagram.com/safka.me/) </small>
-
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-
-
----&interactive
-
-## Interactive Console
-
-[1] "C:\\Users\\JT5\\AppData\\Local\\Temp\\RtmpOeEHfm/MotionChartID1be044b7589f.html"
 
 
 

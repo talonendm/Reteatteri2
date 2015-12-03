@@ -7,12 +7,12 @@
   <meta name="author" content="">
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-  <link rel="stylesheet" href="./frameworks/revealjs/css/reveal.min.css">
-  <link rel="stylesheet" href="./frameworks/revealjs/css/theme/default.css" id="theme">
-  <link rel="stylesheet" href="./highlighters/prettify/css/tomorrow.css" id="theme">
+  <link rel="stylesheet" href="libraries/frameworks/revealjs/css/reveal.min.css">
+  <link rel="stylesheet" href="libraries/frameworks/revealjs/css/theme/default.css" id="theme">
+  <link rel="stylesheet" href="libraries/highlighters/prettify/css/tomorrow.css" id="theme">
   <!--[if lt IE 9]>
   <script src="lib/js/html5shiv.js"></script>
-  <![endif]-->  <link rel="stylesheet" href = "./widgets/interactive/css/aceeditor.css">
+  <![endif]-->  <link rel="stylesheet" href = "libraries/widgets/interactive/css/aceeditor.css">
 <link rel="stylesheet" href = "assets/css/ribbons.css">
 
 </head>
@@ -25,44 +25,6 @@
 
 <p><small> for <a href="https://instagram.com/safka.me/">@safkame</a> </small></p>
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-
-</section>
-<section class='' data-state='' id='slide-2'>
-  <h2>Interactive Console</h2>
-   
-<div class='row-fluid'>
-  <div class='span5'>
-    <form id="knitForm2" data-cell="2">
-      <p>[1] &quot;C:\Users\JT5\AppData\Local\Temp\RtmpOeEHfm/MotionChartID1be044b7589f.html&quot;</p>
-
-      <div id='aceeditor2' style="height:px;"></div>
-      <div class='interactive btn-toolbar pull-left'>
-        <div class='btn-group'>
-          <a class='btn btn-small action-button' id='runCode2' data-action='runCode'
-            data-cell='2' rel='tooltip' data-title='Run Code'>
-            <i class='icon-play'></i>
-          </a>
-          <a class='btn btn-small iBtn' id='testCode2' data-action='testCode'
-             data-cell='2' rel='tooltip' data-title='Test Code'>
-            <i class='icon-check'></i>
-          </a>
-          <a class='btn btn-small iBtn' id='clearResult2' data-action='clearResult'
-             data-cell='2' rel='tooltip' data-title='Clear Output'>
-            <i class="icon-remove"></i>
-          </a>
-          <a class='btn  btn-small iBtn' id='getHint2' rel='tooltip' 
-            data-title="Get Hint" data-action='getHint'
-            data-cell='2' data-hint="">
-            <i class="icon-bookmark"></i>
-          </a>
-        </div>
-      </div>    </form>
-  </div>
-  <div class='span7'>
-    <iframe id="knitResult2" class='shiny-html-output'></iframe>
-  </div>
-</div>
 </section>
 <section>
    <section class='' data-state=''>
@@ -2151,8 +2113,8 @@
     </div>
   </div>
 </body>
-  <script src="./frameworks/revealjs/lib/js/head.min.js"></script>
-  <script src="./frameworks/revealjs/js/reveal.min.js"></script>
+  <script src="libraries/frameworks/revealjs/lib/js/head.min.js"></script>
+  <script src="libraries/frameworks/revealjs/js/reveal.min.js"></script>
   <script>
   // Full list of configuration options available here:
   // https://github.com/hakimel/reveal.js#configuration
@@ -2166,18 +2128,18 @@
     dependencies: [
     // Cross-browser shim that fully implements classList -
     // https://github.com/eligrey/classList.js/
-      { src: './frameworks/revealjs/lib/js/classList.js', condition: function() { return !document.body.classList;}},
+      { src: 'libraries/frameworks/revealjs/lib/js/classList.js', condition: function() { return !document.body.classList;}},
       // Zoom in and out with Alt+click
-      { src: './frameworks/revealjs/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+      { src: 'libraries/frameworks/revealjs/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
       // Speaker notes
-      { src: './frameworks/revealjs/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
+      { src: 'libraries/frameworks/revealjs/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
       // Remote control your reveal.js presentation using a touch device
-      //{ src: './frameworks/revealjs/plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
+      //{ src: 'libraries/frameworks/revealjs/plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
       ]
   });
   </script>  <!-- Google Prettify -->
 <script src="http://cdnjs.cloudflare.com/ajax/libs/prettify/188.0.0/prettify.js"></script>
-<script src='./highlighters/prettify/js/lang-r.js'></script>
+<script src='libraries/highlighters/prettify/js/lang-r.js'></script>
 <script>
   var pres = document.getElementsByTagName("pre");
   for (var i=0; i < pres.length; ++i) {
