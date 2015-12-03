@@ -1,0 +1,1260 @@
+---
+title       : reteatteri
+subtitle    : 
+author      : 
+job         : 
+framework   : revealjs        # {io2012, html5slides, shower, dzslides, ...}
+revealjs:
+  transition: concave
+  center: "true"
+highlighter : prettify  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : [interactive]            # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+url: {lib: "."}
+---
+
+# re:teatteri
+### slides
+
+<small> for [@safkame](https://instagram.com/safka.me/) </small>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+
+---&interactive
+
+## Interactive Console
+
+```{r echo = F, results = 'asis', comment = NA}
+library(googleVis)
+M1 <- plot(gvisMotionChart(Fruits, "Fruit", "Year", options = list(width = 600, height = 400)))
+print(M1, tag = 'chart')
+
+```
+
+
+
+---&vertical
+
+## [| Motti |](http://www.google.com/search?q=Motti+ravintola)
+### 1. Round 1
+### Host KA
+
+***
+
+## [| Kynsilaukka |](http://www.google.com/search?q=Kynsilaukka+ravintola)
+### 2. Round 1
+### Host JU
+
+***
+
+## [| Gastone |](http://www.google.com/search?q=Gastone+ravintola)
+### 3. Round 1
+### Host HE
+
+***
+
+## [| Villetta |](http://www.google.com/search?q=Villetta+ravintola)
+### 4. Round 1
+### Host MI
+
+***
+
+## [| Len's Keishoku & Bar |](http://www.google.com/search?q=Len's Keishoku & Bar+ravintola)
+### 5. Round 1
+### Host LA
+
+***
+
+## [| Sea Horse |](http://www.google.com/search?q=Sea Horse+ravintola)
+### 6. Round 1
+### Host MA
+
+***
+
+## [| Messenius |](http://www.google.com/search?q=Messenius+ravintola)
+### 7. Round 1
+### Host JA
+
+***
+
+## [| Hariton |](http://www.google.com/search?q=Hariton+ravintola)
+### 8. Round 2
+### Host KA
+
+***
+
+## [| G18 |](http://www.google.com/search?q=G18+ravintola)
+### 9. Round 2
+### Host JU
+
+***
+
+## [| Suomi Lautasella |](http://www.google.com/search?q=Suomi Lautasella+ravintola)
+### 10. Round 2
+### Host MA
+
+***
+
+## [| Graniittilinna |](http://www.google.com/search?q=Graniittilinna+ravintola)
+### 11. Round 2
+### Host HE
+
+***
+
+## [| Rodolfo |](http://www.google.com/search?q=Rodolfo+ravintola)
+### 12. Round 2
+### Host LA
+
+***
+
+## [| Kuu |](http://www.google.com/search?q=Kuu+ravintola)
+### 13. Round 2
+### Host MI
+
+***
+
+## [| La Bodega |](http://www.google.com/search?q=La Bodega+ravintola)
+### 14. Round 2
+### Host HE
+
+***
+
+## [| Bar Teos |](http://www.google.com/search?q=Bar Teos+ravintola)
+### 15. Round 2
+### Host JA
+
+***
+
+## [| Cella |](http://www.google.com/search?q=Cella+ravintola)
+### 16. Round 3
+### Host KA
+
+***
+
+## [| Kuurna |](http://www.google.com/search?q=Kuurna+ravintola)
+### 17. Round 3
+### Host JU
+
+***
+
+## [| Weeruska |](http://www.google.com/search?q=Weeruska+ravintola)
+### 18. Round 3
+### Host JA
+
+***
+
+## [| Casaro |](http://www.google.com/search?q=Casaro+ravintola)
+### 19. Round 3
+### Host MA
+
+***
+
+## [| BBQ House |](http://www.google.com/search?q=BBQ House+ravintola)
+### 20. Round 3
+### Host LA
+
+***
+
+## [| Zinnkeller |](http://www.google.com/search?q=Zinnkeller+ravintola)
+### 21. Round 3
+### Host MI
+
+***
+
+## [| Farouge |](http://www.google.com/search?q=Farouge+ravintola)
+### 22. Round 4
+### Host JU
+
+***
+
+## [| Pannonia |](http://www.google.com/search?q=Pannonia+ravintola)
+### 23. Round 4
+### Host JA
+
+***
+
+## [| Korea House |](http://www.google.com/search?q=Korea House+ravintola)
+### 24. Round 4
+### Host MA
+
+***
+
+## [| Basilica |](http://www.google.com/search?q=Basilica+ravintola)
+### 25. Round 4
+### Host KA
+
+***
+
+## [| Juuri |](http://www.google.com/search?q=Juuri+ravintola)
+### 26. Round 4
+### Host MI
+
+***
+
+## [| Persilja |](http://www.google.com/search?q=Persilja+ravintola)
+### 27. Round 4
+### Host HE
+
+***
+
+## [| Villa Thai |](http://www.google.com/search?q=Villa Thai+ravintola)
+### 28. Round 4
+### Host LA
+
+***
+
+## [| kosmos |](http://www.google.com/search?q=kosmos+ravintola)
+### 29. Round 5
+### Host KA
+
+***
+
+## [| teatteri |](http://www.google.com/search?q=teatteri+ravintola)
+### 30. Round 5
+### Host JU
+
+***
+
+## [| kabuki |](http://www.google.com/search?q=kabuki+ravintola)
+### 31. Round 5
+### Host MA
+
+***
+
+## [| maxill |](http://www.google.com/search?q=maxill+ravintola)
+### 32. Round 5
+### Host MI
+
+***
+
+## [| mestaritalli |](http://www.google.com/search?q=mestaritalli+ravintola)
+### 33. Round 5
+### Host LA
+
+***
+
+## [| elite |](http://www.google.com/search?q=elite+ravintola)
+### 34. Round 5
+### Host JA
+
+***
+
+## [| ateljee |](http://www.google.com/search?q=ateljee+ravintola)
+### 35. Round 5
+### Host HE
+
+***
+
+## [| jailbird |](http://www.google.com/search?q=jailbird+ravintola)
+### 36. Round 6
+### Host HE
+
+***
+
+## [| safka |](http://www.google.com/search?q=safka+ravintola)
+### 37. Round 6
+### Host KA
+
+***
+
+## [| grotesk |](http://www.google.com/search?q=grotesk+ravintola)
+### 38. Round 6
+### Host JU
+
+***
+
+## [| Benjam's bistro |](http://www.google.com/search?q=Benjam's bistro+ravintola)
+### 39. Round 6
+### Host JA
+
+***
+
+## [| Rymy eetu |](http://www.google.com/search?q=Rymy eetu+ravintola)
+### 40. Round 6
+### Host LA
+
+***
+
+## [| Karl Johan |](http://www.google.com/search?q=Karl Johan+ravintola)
+### 41. Round 6
+### Host MI
+
+***
+
+## [| Kellarikrouvi |](http://www.google.com/search?q=Kellarikrouvi+ravintola)
+### 42. Round 6
+### Host MA
+
+***
+
+## [| La Societe Du Cochon |](http://www.google.com/search?q=La Societe Du Cochon+ravintola)
+### 43. Round 7
+### Host HE
+
+***
+
+## [| Helmi |](http://www.google.com/search?q=Helmi+ravintola)
+### 44. Round 7
+### Host JU
+
+***
+
+## [| Coma |](http://www.google.com/search?q=Coma+ravintola)
+### 45. Round 7
+### Host KA
+
+***
+
+## [| Macu |](http://www.google.com/search?q=Macu+ravintola)
+### 46. Round 7
+### Host JA
+
+***
+
+## [| Konstan möljä |](http://www.google.com/search?q=Konstan möljä+ravintola)
+### 47. Round 7
+### Host MA
+
+***
+
+## [| Trenta |](http://www.google.com/search?q=Trenta+ravintola)
+### 48. Round 7
+### Host LA
+
+***
+
+## [| Holvari |](http://www.google.com/search?q=Holvari+ravintola)
+### 49. Round 7
+### Host MI
+
+***
+
+## [| del mar |](http://www.google.com/search?q=del mar+ravintola)
+### 50. Round 8
+### Host JU
+
+***
+
+## [| Raku ya |](http://www.google.com/search?q=Raku ya+ravintola)
+### 51. Round 8
+### Host KA
+
+***
+
+## [| Troikka |](http://www.google.com/search?q=Troikka+ravintola)
+### 52. Round 8
+### Host HE
+
+***
+
+## [| Storyville |](http://www.google.com/search?q=Storyville+ravintola)
+### 53. Round 8
+### Host JA
+
+***
+
+## [| Kilim |](http://www.google.com/search?q=Kilim+ravintola)
+### 54. Round 8
+### Host MI
+
+***
+
+## [| Elviira |](http://www.google.com/search?q=Elviira+ravintola)
+### 55. Round 8
+### Host MA
+
+***
+
+## [| Parilla espanola |](http://www.google.com/search?q=Parilla espanola+ravintola)
+### 56. Round 8
+### Host LA
+
+***
+
+## [| Azoros |](http://www.google.com/search?q=Azoros+ravintola)
+### 57. Round 9
+### Host JA
+
+***
+
+## [| Virgin oil co |](http://www.google.com/search?q=Virgin oil co+ravintola)
+### 58. Round 9
+### Host HE
+
+***
+
+## [| Fishmarket |](http://www.google.com/search?q=Fishmarket+ravintola)
+### 59. Round 9
+### Host JU
+
+***
+
+## [| Mecca |](http://www.google.com/search?q=Mecca+ravintola)
+### 60. Round 9
+### Host KA
+
+***
+
+## [| La Medina |](http://www.google.com/search?q=La Medina+ravintola)
+### 61. Round 9
+### Host MA
+
+***
+
+## [| Pirate |](http://www.google.com/search?q=Pirate+ravintola)
+### 62. Round 9
+### Host LA
+
+***
+
+## [| Brunos |](http://www.google.com/search?q=Brunos+ravintola)
+### 63. Round 9
+### Host MI
+
+---&vertical
+
+## [| Bistro Helsinki 15 |](http://www.google.com/search?q=Bistro Helsinki 15+ravintola)
+### Points 87
+### Round 10, Rank 1
+#### Host MA, Total rank 9/104
+
+
+***
+
+## [| Farang |](http://www.google.com/search?q=Farang+ravintola)
+### Points 67
+### Round 10, Rank 2
+#### Host KA, Total rank 28/104
+
+
+***
+
+## [| Strindberg |](http://www.google.com/search?q=Strindberg+ravintola)
+### Points 59
+### Round 10, Rank 3
+#### Host LA, Total rank 36/104
+
+
+***
+
+## [| Aito |](http://www.google.com/search?q=Aito+ravintola)
+### Points 57
+### Round 10, Rank 4
+#### Host JU, Total rank 41/104
+
+
+***
+
+## [| Luomo |](http://www.google.com/search?q=Luomo+ravintola)
+### Points 42
+### Round 10, Rank 5
+#### Host HE, Total rank 65/104
+
+
+***
+
+## [| Töölönranta |](http://www.google.com/search?q=Töölönranta+ravintola)
+### Points 23
+### Round 10, Rank 6
+#### Host JA, Total rank 86/104
+
+
+***
+
+## [| Vaelsa |](http://www.google.com/search?q=Vaelsa+ravintola)
+### Points 14
+### Round 10, Rank 7
+#### Host MI, Total rank 96/104
+
+
+---&vertical
+
+## [| Lasipalatsi |](http://www.google.com/search?q=Lasipalatsi+ravintola)
+### Points 75
+### Round 11, Rank 1
+#### Host JA, Total rank 18/104
+
+
+***
+
+## [| Bistro Leon |](http://www.google.com/search?q=Bistro Leon+ravintola)
+### Points 69
+### Round 11, Rank 2
+#### Host MA, Total rank 26/104
+
+
+***
+
+## [| Solna |](http://www.google.com/search?q=Solna+ravintola)
+### Points 69
+### Round 11, Rank 3
+#### Host JU, Total rank 27/104
+
+
+***
+
+## [| Carelia |](http://www.google.com/search?q=Carelia+ravintola)
+### Points 49
+### Round 11, Rank 4
+#### Host MI, Total rank 52/104
+
+
+***
+
+## [| Olive's |](http://www.google.com/search?q=Olive's+ravintola)
+### Points 46
+### Round 11, Rank 5
+#### Host LA, Total rank 57/104
+
+
+***
+
+## [| Grilli it |](http://www.google.com/search?q=Grilli it+ravintola)
+### Points 21
+### Round 11, Rank 6
+#### Host HE, Total rank 89/104
+
+
+***
+
+## [| Martta |](http://www.google.com/search?q=Martta+ravintola)
+### Points 16
+### Round 11, Rank 7
+#### Host KA, Total rank 94/104
+
+
+---&vertical
+
+## [| Tokyo 55 |](http://www.google.com/search?q=Tokyo 55+ravintola)
+### Points 90
+### Round 12, Rank 1
+#### Host JU, Total rank 8/104
+
+
+***
+
+## [| Backfickan |](http://www.google.com/search?q=Backfickan+ravintola)
+### Points 70
+### Round 12, Rank 2
+#### Host MI, Total rank 25/104
+
+
+***
+
+## [| Mange sud |](http://www.google.com/search?q=Mange sud+ravintola)
+### Points 65
+### Round 12, Rank 3
+#### Host JA, Total rank 30/104
+
+
+***
+
+## [| la table |](http://www.google.com/search?q=la table+ravintola)
+### Points 55
+### Round 12, Rank 4
+#### Host MA, Total rank 46/104
+
+
+***
+
+## [| Ravintola Savu |](http://www.google.com/search?q=Ravintola Savu+ravintola)
+### Points 38
+### Round 12, Rank 5
+#### Host KA, Total rank 70/104
+
+
+***
+
+## [| Zio Pepe |](http://www.google.com/search?q=Zio Pepe+ravintola)
+### Points 22
+### Round 12, Rank 6
+#### Host HE, Total rank 87/104
+
+
+***
+
+## [| Tang dynasty |](http://www.google.com/search?q=Tang dynasty+ravintola)
+### Points 1
+### Round 12, Rank 7
+#### Host LA, Total rank 104/104
+
+
+---&vertical
+
+## [| Goce |](http://www.google.com/search?q=Goce+ravintola)
+### Points 64
+### Round 13, Rank 1
+#### Host JU, Total rank 31/104
+
+
+***
+
+## [| Kolme kruunua |](http://www.google.com/search?q=Kolme kruunua+ravintola)
+### Points 63
+### Round 13, Rank 2
+#### Host KA, Total rank 32/104
+
+
+***
+
+## [| Perho |](http://www.google.com/search?q=Perho+ravintola)
+### Points 59
+### Round 13, Rank 3
+#### Host MI, Total rank 37/104
+
+
+***
+
+## [| Stone's |](http://www.google.com/search?q=Stone's+ravintola)
+### Points 48
+### Round 13, Rank 4
+#### Host MA, Total rank 53/104
+
+
+***
+
+## [| Eeron keittiö |](http://www.google.com/search?q=Eeron keittiö+ravintola)
+### Points 48
+### Round 13, Rank 5
+#### Host HE, Total rank 54/104
+
+
+***
+
+## [| Umeshu |](http://www.google.com/search?q=Umeshu+ravintola)
+### Points 29
+### Round 13, Rank 6
+#### Host LA, Total rank 79/104
+
+
+***
+
+## [| Aleksandria |](http://www.google.com/search?q=Aleksandria+ravintola)
+### Points 25
+### Round 13, Rank 7
+#### Host JA, Total rank 82/104
+
+
+---&vertical
+
+## [| Lupolo |](http://www.google.com/search?q=Lupolo+ravintola)
+### Points 96
+### Round 14, Rank 1
+#### Host MI, Total rank 2/104
+
+
+***
+
+## [| König |](http://www.google.com/search?q=König+ravintola)
+### Points 72
+### Round 14, Rank 2
+#### Host HE, Total rank 21/104
+
+
+***
+
+## [| Alia |](http://www.google.com/search?q=Alia+ravintola)
+### Points 72
+### Round 14, Rank 3
+#### Host LA, Total rank 22/104
+
+
+***
+
+## [| Chef & Sommelier |](http://www.google.com/search?q=Chef & Sommelier+ravintola)
+### Points 43
+### Round 14, Rank 4
+#### Host KA, Total rank 64/104
+
+
+***
+
+## [| Sunn |](http://www.google.com/search?q=Sunn+ravintola)
+### Points 35
+### Round 14, Rank 5
+#### Host MA, Total rank 73/104
+
+
+***
+
+## [| Gaijin |](http://www.google.com/search?q=Gaijin+ravintola)
+### Points 28
+### Round 14, Rank 6
+#### Host JU, Total rank 81/104
+
+
+***
+
+## [| Johannes |](http://www.google.com/search?q=Johannes+ravintola)
+### Points 5
+### Round 14, Rank 7
+#### Host JA, Total rank 100/104
+
+
+---&vertical
+
+## [| Koiton Grilli |](http://www.google.com/search?q=Koiton Grilli+ravintola)
+### Points 94
+### Round 15, Rank 1
+#### Host JU, Total rank 5/104
+
+
+***
+
+## [| Motti |](http://www.google.com/search?q=Motti+ravintola)
+### Points 72
+### Round 15, Rank 2
+#### Host KA, Total rank 23/104
+
+
+***
+
+## [| Shanghai Cowboy  |](http://www.google.com/search?q=Shanghai Cowboy +ravintola)
+### Points 59
+### Round 15, Rank 3
+#### Host MA, Total rank 38/104
+
+
+***
+
+## [| Glöd |](http://www.google.com/search?q=Glöd+ravintola)
+### Points 50
+### Round 15, Rank 4
+#### Host LA, Total rank 50/104
+
+
+***
+
+## [| Nuevo |](http://www.google.com/search?q=Nuevo+ravintola)
+### Points 24
+### Round 15, Rank 5
+#### Host JA, Total rank 84/104
+
+
+***
+
+## [| Funky Burger |](http://www.google.com/search?q=Funky Burger+ravintola)
+### Points 21
+### Round 15, Rank 6
+#### Host HE, Total rank 90/104
+
+
+***
+
+## [| Soul kitchen |](http://www.google.com/search?q=Soul kitchen+ravintola)
+### Points 9
+### Round 15, Rank 7
+#### Host MI, Total rank 99/104
+
+
+---&vertical
+
+## [| Spis |](http://www.google.com/search?q=Spis+ravintola)
+### Points 98
+### Round 16, Rank 1
+#### Host KA, Total rank 1/104
+
+
+***
+
+## [| Namu |](http://www.google.com/search?q=Namu+ravintola)
+### Points 85
+### Round 16, Rank 2
+#### Host MA, Total rank 11/104
+
+
+***
+
+## [| Strindberg |](http://www.google.com/search?q=Strindberg+ravintola)
+### Points 61
+### Round 16, Rank 3
+#### Host JA, Total rank 35/104
+
+
+***
+
+## [| Hoshitos |](http://www.google.com/search?q=Hoshitos+ravintola)
+### Points 53
+### Round 16, Rank 4
+#### Host MI, Total rank 48/104
+
+
+***
+
+## [| Patrona |](http://www.google.com/search?q=Patrona+ravintola)
+### Points 31
+### Round 16, Rank 5
+#### Host LA, Total rank 76/104
+
+
+***
+
+## [| Sipuli |](http://www.google.com/search?q=Sipuli+ravintola)
+### Points 31
+### Round 16, Rank 6
+#### Host HE, Total rank 77/104
+
+
+***
+
+## [| Kunigatar Saba |](http://www.google.com/search?q=Kunigatar Saba+ravintola)
+### Points 5
+### Round 16, Rank 7
+#### Host JU, Total rank 101/104
+
+
+---&vertical
+
+## [| Meche |](http://www.google.com/search?q=Meche+ravintola)
+### Points 96
+### Round 17, Rank 1
+#### Host JA, Total rank 3/104
+
+
+***
+
+## [| Kitchen & Co |](http://www.google.com/search?q=Kitchen & Co+ravintola)
+### Points 76
+### Round 17, Rank 2
+#### Host MA, Total rank 17/104
+
+
+***
+
+## [| Il Bucatino |](http://www.google.com/search?q=Il Bucatino+ravintola)
+### Points 72
+### Round 17, Rank 3
+#### Host HE, Total rank 24/104
+
+
+***
+
+## [| Kolo |](http://www.google.com/search?q=Kolo+ravintola)
+### Points 57
+### Round 17, Rank 4
+#### Host KA, Total rank 42/104
+
+
+***
+
+## [| Paksu |](http://www.google.com/search?q=Paksu+ravintola)
+### Points 35
+### Round 17, Rank 5
+#### Host MI, Total rank 74/104
+
+
+***
+
+## [| Flada |](http://www.google.com/search?q=Flada+ravintola)
+### Points 25
+### Round 17, Rank 6
+#### Host JU, Total rank 83/104
+
+
+***
+
+## [| hard rock cafe |](http://www.google.com/search?q=hard rock cafe+ravintola)
+### Points 22
+### Round 17, Rank 7
+#### Host LA, Total rank 88/104
+
+
+---&vertical
+
+## [| Krog Madame |](http://www.google.com/search?q=Krog Madame+ravintola)
+### Points 87
+### Round 18, Rank 1
+#### Host MI, Total rank 10/104
+
+
+***
+
+## [| Ask |](http://www.google.com/search?q=Ask+ravintola)
+### Points 62
+### Round 18, Rank 2
+#### Host KA, Total rank 33/104
+
+
+***
+
+## [| Nokka |](http://www.google.com/search?q=Nokka+ravintola)
+### Points 56
+### Round 18, Rank 3
+#### Host JA, Total rank 44/104
+
+
+***
+
+## [| Boulevard social |](http://www.google.com/search?q=Boulevard social+ravintola)
+### Points 50
+### Round 18, Rank 4
+#### Host LA, Total rank 51/104
+
+
+***
+
+## [| PureBistro |](http://www.google.com/search?q=PureBistro+ravintola)
+### Points 38
+### Round 18, Rank 5
+#### Host MA, Total rank 71/104
+
+
+***
+
+## [| Glogatan 4 |](http://www.google.com/search?q=Glogatan 4+ravintola)
+### Points 30
+### Round 18, Rank 6
+#### Host JU, Total rank 78/104
+
+
+***
+
+## [| Putte's pizza |](http://www.google.com/search?q=Putte's pizza+ravintola)
+### Points 3
+### Round 18, Rank 7
+#### Host HE, Total rank 102/104
+
+
+---&vertical
+
+## [| Hoku |](http://www.google.com/search?q=Hoku+ravintola)
+### Points 91
+### Round 19, Rank 1
+#### Host KA, Total rank 6/104
+
+
+***
+
+## [| Chez Dominique |](http://www.google.com/search?q=Chez Dominique+ravintola)
+### Points 78
+### Round 19, Rank 2
+#### Host MI, Total rank 14/104
+
+
+***
+
+## [| Toca |](http://www.google.com/search?q=Toca+ravintola)
+### Points 46
+### Round 19, Rank 3
+#### Host JU, Total rank 58/104
+
+
+***
+
+## [| Bistro O'Mat |](http://www.google.com/search?q=Bistro O'Mat+ravintola)
+### Points 46
+### Round 19, Rank 4
+#### Host JA, Total rank 59/104
+
+
+***
+
+## [| Kannas |](http://www.google.com/search?q=Kannas+ravintola)
+### Points 39
+### Round 19, Rank 5
+#### Host MA, Total rank 68/104
+
+
+***
+
+## [| Helsinki Bruggeri |](http://www.google.com/search?q=Helsinki Bruggeri+ravintola)
+### Points 13
+### Round 19, Rank 6
+#### Host LA, Total rank 97/104
+
+
+---&vertical
+
+## [| Lusikka |](http://www.google.com/search?q=Lusikka+ravintola)
+### Points 80
+### Round 20, Rank 1
+#### Host MA, Total rank 13/104
+
+
+***
+
+## [| Un Cerdo Ciego - Sokea Possu |](http://www.google.com/search?q=Un Cerdo Ciego - Sokea Possu+ravintola)
+### Points 74
+### Round 20, Rank 2
+#### Host HE, Total rank 20/104
+
+
+***
+
+## [| Pastis |](http://www.google.com/search?q=Pastis+ravintola)
+### Points 56
+### Round 20, Rank 3
+#### Host JA, Total rank 45/104
+
+
+***
+
+## [| Aada |](http://www.google.com/search?q=Aada+ravintola)
+### Points 40
+### Round 20, Rank 4
+#### Host MI, Total rank 66/104
+
+
+***
+
+## [| tres bones |](http://www.google.com/search?q=tres bones+ravintola)
+### Points 40
+### Round 20, Rank 5
+#### Host LA, Total rank 67/104
+
+
+***
+
+## [| Roslund |](http://www.google.com/search?q=Roslund+ravintola)
+### Points 29
+### Round 20, Rank 6
+#### Host KA, Total rank 80/104
+
+
+***
+
+## [| Tony's deli |](http://www.google.com/search?q=Tony's deli+ravintola)
+### Points 19
+### Round 20, Rank 7
+#### Host JU, Total rank 93/104
+
+
+---&vertical
+
+## [| Sandro |](http://www.google.com/search?q=Sandro+ravintola)
+### Points 95
+### Round 21, Rank 1
+#### Host LA, Total rank 4/104
+
+
+***
+
+## [| Emo |](http://www.google.com/search?q=Emo+ravintola)
+### Points 58
+### Round 21, Rank 2
+#### Host KA, Total rank 39/104
+
+
+***
+
+## [| Rafla |](http://www.google.com/search?q=Rafla+ravintola)
+### Points 57
+### Round 21, Rank 3
+#### Host MI, Total rank 43/104
+
+
+***
+
+## [| Brasserie Eira |](http://www.google.com/search?q=Brasserie Eira+ravintola)
+### Points 48
+### Round 21, Rank 4
+#### Host MA, Total rank 55/104
+
+
+***
+
+## [| Bronda |](http://www.google.com/search?q=Bronda+ravintola)
+### Points 39
+### Round 21, Rank 5
+#### Host JU, Total rank 69/104
+
+
+***
+
+## [| Trattoria Sogno |](http://www.google.com/search?q=Trattoria Sogno+ravintola)
+### Points 33
+### Round 21, Rank 6
+#### Host HE, Total rank 75/104
+
+
+***
+
+## [| Kylä |](http://www.google.com/search?q=Kylä+ravintola)
+### Points 11
+### Round 21, Rank 7
+#### Host JA, Total rank 98/104
+
+
+---&vertical
+
+## [| Kolmon3n |](http://www.google.com/search?q=Kolmon3n+ravintola)
+### Points 91
+### Round 22, Rank 1
+#### Host MA, Total rank 7/104
+
+
+***
+
+## [| Savoy |](http://www.google.com/search?q=Savoy+ravintola)
+### Points 77
+### Round 22, Rank 2
+#### Host JA, Total rank 15/104
+
+
+***
+
+## [| Ragu |](http://www.google.com/search?q=Ragu+ravintola)
+### Points 62
+### Round 22, Rank 3
+#### Host MI, Total rank 34/104
+
+
+***
+
+## [| Pompiers |](http://www.google.com/search?q=Pompiers+ravintola)
+### Points 47
+### Round 22, Rank 4
+#### Host JU, Total rank 56/104
+
+
+***
+
+## [| Pastor |](http://www.google.com/search?q=Pastor+ravintola)
+### Points 45
+### Round 22, Rank 5
+#### Host LA, Total rank 62/104
+
+
+***
+
+## [| Lähiö |](http://www.google.com/search?q=Lähiö+ravintola)
+### Points 24
+### Round 22, Rank 6
+#### Host KA, Total rank 85/104
+
+
+***
+
+## [| Woolshed |](http://www.google.com/search?q=Woolshed+ravintola)
+### Points 16
+### Round 22, Rank 7
+#### Host HE, Total rank 95/104
+
+
+---&vertical
+
+## [| Lyon |](http://www.google.com/search?q=Lyon+ravintola)
+### Points 83
+### Round 23, Rank 1
+#### Host KA, Total rank 12/104
+
+
+***
+
+## [| Richard von Trappe |](http://www.google.com/search?q=Richard von Trappe+ravintola)
+### Points 75
+### Round 23, Rank 2
+#### Host HE, Total rank 19/104
+
+
+***
+
+## [| Sundsman's Krog |](http://www.google.com/search?q=Sundsman's Krog+ravintola)
+### Points 58
+### Round 23, Rank 3
+#### Host LA, Total rank 40/104
+
+
+***
+
+## [| Sinne |](http://www.google.com/search?q=Sinne+ravintola)
+### Points 51
+### Round 23, Rank 4
+#### Host MA, Total rank 49/104
+
+
+***
+
+## [| Lehtovaara |](http://www.google.com/search?q=Lehtovaara+ravintola)
+### Points 45
+### Round 23, Rank 5
+#### Host JA, Total rank 63/104
+
+
+***
+
+## [| The Cock |](http://www.google.com/search?q=The Cock+ravintola)
+### Points 21
+### Round 23, Rank 6
+#### Host JU, Total rank 91/104
+
+
+***
+
+## [| No.11 |](http://www.google.com/search?q=No.11+ravintola)
+### Points 3
+### Round 23, Rank 7
+#### Host MI, Total rank 103/104
+
+
+---&vertical
+
+## [| Regina |](http://www.google.com/search?q=Regina+ravintola)
+### Points 77
+### Round 24, Rank 1
+#### Host JU, Total rank 16/104
+
+
+***
+
+## [| Loung3 |](http://www.google.com/search?q=Loung3+ravintola)
+### Points 66
+### Round 24, Rank 2
+#### Host MA, Total rank 29/104
+
+
+***
+
+## [| Pjazza |](http://www.google.com/search?q=Pjazza+ravintola)
+### Points 54
+### Round 24, Rank 3
+#### Host JA, Total rank 47/104
+
+
+***
+
+## [| Meripaviljonki |](http://www.google.com/search?q=Meripaviljonki+ravintola)
+### Points 46
+### Round 24, Rank 4
+#### Host LA, Total rank 60/104
+
+
+***
+
+## [| Hoshito Töölö |](http://www.google.com/search?q=Hoshito Töölö+ravintola)
+### Points 46
+### Round 24, Rank 5
+#### Host KA, Total rank 61/104
+
+
+***
+
+## [| El Greco |](http://www.google.com/search?q=El Greco+ravintola)
+### Points 38
+### Round 24, Rank 6
+#### Host MI, Total rank 72/104
+
+
+***
+
+## [| Goodwin the Steak House |](http://www.google.com/search?q=Goodwin the Steak House+ravintola)
+### Points 20
+### Round 24, Rank 7
+#### Host HE, Total rank 92/104
+
+
+---&vertical
+
+## [| Lumiere |](http://www.google.com/search?q=Lumiere+ravintola)
+### 168. Round 25
+### Host JU
+
+*** 
+
+## [| Nälkä |](http://www.google.com/search?q=Nälkä+ravintola)
+### 169. Round 25
+### Host MA
+
