@@ -1,7 +1,7 @@
 ---
 title       : reteatteri
 subtitle    : 
-author      : 
+author      : JA
 job         : 
 framework   : revealjs        # {io2012, html5slides, shower, dzslides, ...}
 revealjs:
@@ -299,7 +299,7 @@ knit        : slidify::knit2slides
 
 ***
 
-## [| Konstan möljä |](http://www.google.com/search?q=Konstan möljä+ravintola)
+## [| Konstan mÃ¶ljÃ¤ |](http://www.google.com/search?q=Konstan mÃ¶ljÃ¤+ravintola)
 ### 47. Round 7
 ### Host MA
 
@@ -441,7 +441,7 @@ knit        : slidify::knit2slides
 
 ***
 
-## [| Töölönranta |](http://www.google.com/search?q=Töölönranta+ravintola)
+## [| TÃ¶Ã¶lÃ¶nranta |](http://www.google.com/search?q=TÃ¶Ã¶lÃ¶nranta+ravintola)
 ### Points 23
 ### Round 10, Rank 6
 #### Host JA, Total rank 86/104
@@ -601,7 +601,7 @@ knit        : slidify::knit2slides
 
 ***
 
-## [| Eeron keittiö |](http://www.google.com/search?q=Eeron keittiö+ravintola)
+## [| Eeron keittiÃ¶ |](http://www.google.com/search?q=Eeron keittiÃ¶+ravintola)
 ### Points 48
 ### Round 13, Rank 5
 #### Host HE, Total rank 54/104
@@ -633,7 +633,7 @@ knit        : slidify::knit2slides
 
 ***
 
-## [| König |](http://www.google.com/search?q=König+ravintola)
+## [| KÃ¶nig |](http://www.google.com/search?q=KÃ¶nig+ravintola)
 ### Points 72
 ### Round 14, Rank 2
 #### Host HE, Total rank 21/104
@@ -705,7 +705,7 @@ knit        : slidify::knit2slides
 
 ***
 
-## [| Glöd |](http://www.google.com/search?q=Glöd+ravintola)
+## [| GlÃ¶d |](http://www.google.com/search?q=GlÃ¶d+ravintola)
 ### Points 50
 ### Round 15, Rank 4
 #### Host LA, Total rank 50/104
@@ -1057,7 +1057,7 @@ knit        : slidify::knit2slides
 
 ***
 
-## [| Kylä |](http://www.google.com/search?q=Kylä+ravintola)
+## [| KylÃ¤ |](http://www.google.com/search?q=KylÃ¤+ravintola)
 ### Points 11
 ### Round 21, Rank 7
 #### Host JA, Total rank 98/104
@@ -1105,7 +1105,7 @@ knit        : slidify::knit2slides
 
 ***
 
-## [| Lähiö |](http://www.google.com/search?q=Lähiö+ravintola)
+## [| LÃ¤hiÃ¶ |](http://www.google.com/search?q=LÃ¤hiÃ¶+ravintola)
 ### Points 24
 ### Round 22, Rank 6
 #### Host KA, Total rank 85/104
@@ -1209,7 +1209,7 @@ knit        : slidify::knit2slides
 
 ***
 
-## [| Hoshito Töölö |](http://www.google.com/search?q=Hoshito Töölö+ravintola)
+## [| Hoshito TÃ¶Ã¶lÃ¶ |](http://www.google.com/search?q=Hoshito TÃ¶Ã¶lÃ¶+ravintola)
 ### Points 46
 ### Round 24, Rank 5
 #### Host KA, Total rank 61/104
@@ -1239,7 +1239,7 @@ knit        : slidify::knit2slides
 
 *** 
 
-## [| Nälkä |](http://www.google.com/search?q=Nälkä+ravintola)
+## [| NÃ¤lkÃ¤ |](http://www.google.com/search?q=NÃ¤lkÃ¤+ravintola)
 ### 169. Round 25
 ### Host MA
 
