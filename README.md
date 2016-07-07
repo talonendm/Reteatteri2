@@ -5,4 +5,4 @@ new repo
 # Rshiny app
 Restaurants:
 
-nen.shinyapps.io/app-reteatteri/
+talonen.shinyapps.io/app-reteatteri/
